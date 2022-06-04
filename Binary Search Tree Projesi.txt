@@ -9,6 +9,6 @@
 4. key için 4 veya 5 i alabiliriz
 
 			  4
-		   3    6
-		 1  2  5  7
-		0        8 9
+		   3     6
+		 1  2   5  7
+		0         8 9
