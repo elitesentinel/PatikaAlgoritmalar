@@ -1,0 +1,14 @@
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+
+Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
+
+
+1. [7,5,1,8,3,6,0,9,4,2]
+2. ilk önce sıraya sokup, [0,1,2,3,4,5,6,7,8,9] dizisini elde etmeliyiz.
+3. daha sonra bu diziyi BST'ye çevirmeliyiz.
+4. key için 4 veya 5 i alabiliriz
+
+			  4
+		   3    6
+		 1  2  5  7
+		0        8 9
